@@ -1,0 +1,10 @@
+data/zj/train/text_label/0001.txt
+data/zj/train/text_label/0002.txt
+data/zj/train/text_label/0003.txt
+data/zj/train/text_label/0004.txt
+data/zj/train/text_label/0005.txt
+data/zj/train/text_label/0006.txt
+data/zj/train/text_label/0007.txt
+data/zj/train/text_label/0008.txt
+data/zj/train/text_label/0009.txt
+data/zj/train/text_label/0010.txt

@@ -1,0 +1,10 @@
+data/zj/train/text/0001.jpg
+data/zj/train/text/0002.jpg
+data/zj/train/text/0003.jpg
+data/zj/train/text/0004.jpg
+data/zj/train/text/0005.jpg
+data/zj/train/text/0006.jpg
+data/zj/train/text/0007.jpg
+data/zj/train/text/0008.jpg
+data/zj/train/text/0009.jpg
+data/zj/train/text/0010.jpg
